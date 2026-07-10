@@ -1,9 +1,9 @@
 ```markdown
 # Laboratory of Numerical Simulation (LSN)
 
-This repository contains the projects developed during the course **"Laboratory of Numerical Simulation" (Laboratorio di Simulazione Numerica)** at the **University of Milan**.
+This repository contains the projects developed during the course "Laboratory of Numerical Simulation" (Laboratorio di Simulazione Numerica) at the University of Milan.
 
-The course focused on the implementation and analysis of numerical methods for computational physics problems, with an emphasis on **C++ programming, statistical methods, stochastic simulations and data analysis**.
+The course focused on the implementation and analysis of numerical methods for computational physics problems, with an emphasis on C++ programming, statistical methods, stochastic simulations and data analysis.
 
 The repository includes C++ implementations of numerical algorithms together with Python notebooks for data analysis, visualization and interpretation of simulation results.
 
