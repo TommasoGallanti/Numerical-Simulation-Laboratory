@@ -77,7 +77,7 @@ Used for:
 
 ## Repository Structure
 
-```
+
 
 LSN/
 │
@@ -89,7 +89,7 @@ LSN/
 │
 └── README.md
 
-```
+
 
 Each exercise folder contains:
 
